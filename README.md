@@ -1,11 +1,10 @@
 <h1 align="center">
-    ❤ 💕 <a href="#" alt="site do projeto" target="_blank"> Astro-Match </a> 💕 💘
+    📲 📴 <a href="#" alt="site do projeto" target="_blank"> Astro-Match </a> 📲 📴
 </h1>
 
 ## 💻 Sobre o projeto
 
-    O Astromatch é um clone do aplicativo de relacionamento conhecido como Tinder. Foi um projeto de Frontend Web feito utilizando ReactJS, HTML e CSS; e como gerenciador de pacotes do NodeJS - o npm.
-O projeto consiste em uma versão simplificada de um app de relacionamentos, onde o usuário pode dar match com outros usuários. O objetivo desse projeto foi realizar a integração com a API, que permite a interação com os usuários previamente cadastrados.
+   O projeto Whats-lab foi desenvolvido com o intuito de realizar um clone do Whatsapp, mas não é uma aplicação que envia e recebe mensagens de externas, e sim que crie algo que simplesmente mostre novas mensagens, com as funções básicas utilizando o conceito de Minimun Viable Product. Projeto feito com: React.JS e Styled-Components. Trata-se de um aplicativo semelhante ao WhatsApp, Telegram, Messenger.
 
 ### Sumário
 
@@ -19,17 +18,17 @@ O projeto consiste em uma versão simplificada de um app de relacionamentos, ond
 
 ### Publicação🎨
 
-Projeto Astro-Match publicado na plataforma surge:
+Projeto WhatsLab publicado na plataforma surge:
 
-#### - [Link: Astro-Match](http://half-sweater.surge.sh/)
+#### - [Link: WhatsLab](http://oval-taste.surge.sh/)
 <br/>
 
 ### Requisitos do projeto
 
-- [X] Depois da dar like ou dislike em algum personagem, ele não deve aparecer mais, a não que o usuário clique em limpar matches.
-- [X] Ao dar like em uma carta, uma função sorteará se o personagem corresponderá ou não ao seu interesse. Você deve fazer com que em caso positivo, ele apareça na página de matches.
-- [x] Ao clicar em limpar matches, as cartas devem ser redistribuídas e a página de matches esvaziada.
-- [X] Vocês deverão realizar a integração com uma API Astromatch que fizemos para esse projeto.
+- [X] A página possui dois inputs controlados: um para o nome do usuário e um para a mensagem.
+- [X] Existe um botão de enviar e um espaço para as mensagens enviadas aparecerem.
+- [x] Ao pressionar o botão de enviar, a mensagem enviada aparece na tela .
+- [X] Ao pressionar o botão de enviar, o campo de mensagem é limpo.
 <br/><br/>
 
 ### Status do projeto
@@ -42,7 +41,6 @@ Projeto Astro-Match publicado na plataforma surge:
   - [React](https://pt-br.reactjs.org/)  - O react é uma biblioteca Java Scrip para desenvolovimento de interfaces web.
   - [Styled-components](https://styled-components.com/) - O styled components permite criar uma aplicação baseadas em pequenos componentes, possibilitando o reaproveitamento de código e padronização do layout.
   - [Axios](https://github.com/axios/axios) - Axios é um cliente HTTP baseado em Promises para fazer requisições. Pode ser utilizado tanto no navegador quanto no Node. js ou qualquer serviço de API.
-  - [React-Icons](https://react-icons.github.io/react-icons/) - O react-icons é um pacote muito utilizado no desenvolvimento de aplicações React, o mesmo provem a junção de bibliotecas de icones famosos, tais como: Weather Icons, Material Design e Font Awesome.
   <br/><br/>
 
 ### Instalação
